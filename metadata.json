@@ -1,0 +1,6 @@
+{
+  "name": "سامانه دخانیات نصری",
+  "description": "سامانه جامع مدیریت انبار، فروشگاهی و حسابداری تخصصی دخانیات نصری",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
